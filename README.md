@@ -1,4 +1,4 @@
 # mycollege-demo
 This is my first Git Repository.
 <br>
-Author - Shaily Jain
+Author - Shaily (mycollege)
